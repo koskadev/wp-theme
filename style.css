@@ -10,3 +10,21 @@ body{
   color: #333;
   
 }
+a:link,a:visited{
+  color:#006ec3;
+}
+p {
+  
+  line-height: 1.65em;
+}
+/*
+general Layout
+
+*/
+div.contatiner{
+  max-width: 920px;
+  margin: 0 auto;
+ padding-left: 20px;
+ padding-right: 20px;
+  
+}
