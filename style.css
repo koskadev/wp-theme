@@ -28,3 +28,14 @@ div.contatiner{
  padding-right: 20px;
   
 }
+
+.site-header{
+  
+  border-bottom:2px solid #999;
+}
+.site-footer{
+  margin-top:30px;
+    border-bottom:2px solid #999;
+
+
+}
