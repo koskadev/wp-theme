@@ -5,7 +5,7 @@ function ben_importrecorses(){
 
 }
 
-add_action('ben_importrecorces()');
+add_action('wp_enqueuea_scripts','ben_importrecorces()');
 
 
 ?>
