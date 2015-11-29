@@ -4,3 +4,9 @@ Author : Ben Koska
 Author URI : https://ben.koska/at
 Version: 0.0.2
 */
+body{
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  color: #333;
+  
+}
