@@ -39,3 +39,6 @@ div.contatiner{
 
 
 }
+article.post{
+  border-bottom:2px dotted #bbbbbb;
+}
