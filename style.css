@@ -42,3 +42,6 @@ div.contatiner{
 article.post{
   border-bottom:2px dotted #bbbbbb;
 }
+article.post:last-of-type{
+  border-bottom:none;
+}
